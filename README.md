@@ -29,3 +29,6 @@ Este proyecto desarrolla una plataforma inteligente para la gestión de proyecto
 
 ## 📜 Licencia
 Este proyecto está bajo la licencia MIT 📝
+
+## Link al repositorio
+https://github.com/AllerSec/Diseno-Arq-Software.git
